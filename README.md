@@ -56,9 +56,9 @@
          * list3 三个tab    
     
     第二种方式(前面有四个空格)：  
-    - list1  
-    - list2  
-    - list3  
+    -list1  
+    -list2  
+    -list3  
 
 10. 缩进  
 >缩进  
